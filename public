@@ -2,7 +2,7 @@
 <manifest>
   <projects>
     <project name="manifest"
-             remote="git@github.com:vanadium-archive/manifest.git"
+             remote="git@github.com:prabhu2003ece/manifest.git"
              gerrithost=""
              githooks="manifest/git-hooks"
              path="manifest"/>
