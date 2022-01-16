@@ -30,6 +30,7 @@
              remote="git@github.com:prabhu2003ece/go.lib.git"
              gerrithost=""
              githooks="manifest/git-hooks"
+             revision="f861faf218e248a54bc272b7e93026a0302a085c"
              path="release/go/src/v.io/x/lib"/>
     <project name="release.go.x.ref"
              remote="git@github.com:vanadium-archive/go.ref.git"
